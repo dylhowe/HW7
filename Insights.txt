@@ -1,0 +1,7 @@
+1 - After trying the analysis out with other twitter profiles, it looks like profiles devoted to "Breaking News" seem to be overall more negative than ones that share general news stories.
+
+2 - Of the 5 news profiles analyzed, the most neutral at the time of analysis is CNN, with an average compound score very close to zero.
+
+3 - Across the board, the BBC's news tweets were almost always more positive than the other news agencies. This was true comparing BBC Breaking News to other breaking news and BBC general news to other general news accounts.
+
+ 
