@@ -5,8 +5,8 @@
 
 
 # Twitter API Keys
-consumer_key = "4bj66sNbB2WghWSJfNT3k8HyO"
-consumer_secret = "nTG0FTuo3eQREkerl8QAU5UWDVnxb7jH7CiH6QauQ13RFo7Ts7"
-access_token = "254597038-DA8enlaJgK1gsinNdfEAs0s4yczhdqYdV5RYF9bJ"
-access_token_secret = "rvHrNf8On5hI78SB42kd7eY9zluSXsEAZUFuV4dsuNpfM"
+consumer_key = "M5YOsYOgfItQsrLRVzE47rJAk"
+consumer_secret = "xCX5AJnI2KbwCMuxEmqWdTK7Wpb6ovJBTakWKpcLsg3CSGEjhT"
+access_token = "254597038-14CUg9piBiDbyozYHYPNcrvc9jstPqLLZI3BKhBX"
+access_token_secret = "ogCOuMrcVqDOeAkoaBS74I6HBNyOP5QOuQ8KLAwJ5n43H"
 
